@@ -1,3 +1,4 @@
 - I'm MOCAK1804, a staff member at Moonshot AI.
 - B.S. from Shanghai Jiao Tong University (SJTU); former McKinsey analyst and Vice President at a pan-Asian private equity firm.
+- My investment experience spans buyouts, growth equity, and public markets, with hands-on experience in portfolio operations and exits.
 - I'm interested in model evaluation and reinforcement learning, especially financial knowledge work and computer use.
